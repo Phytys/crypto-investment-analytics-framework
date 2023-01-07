@@ -1,0 +1,101 @@
+date,repo_name,stargazes,language,forks,total_repos,crypto
+2023-01-06,zipline,15693,Python,4523,44328,Quant
+2023-01-06,awesome-quant,11242,Python,1910,44328,Quant
+2023-01-06,QUANTAXIS,6918,Python,2736,44328,Quant
+2023-01-06,New-Grad-Positions-2023,5494,,772,44328,Quant
+2023-01-06,QuantumKatas,4090,Jupyter Notebook,1127,44328,Quant
+2023-01-06,stock,3769,Python,1044,44328,Quant
+2023-01-06,QuantumultX,3640,JavaScript,638,44328,Quant
+2023-01-06,Quantum,3632,Jupyter Notebook,901,44328,Quant
+2023-01-06,quant-trading,3614,Python,823,44328,Quant
+2023-01-06,QuantLib,3590,C++,1434,44328,Quant
+2023-01-06,tf-quant-finance,3563,Python,478,44328,Quant
+2023-01-06,awesome-quant,3080,,793,44328,Quant
+2023-01-06,tqsdk-python,2839,Python,651,44328,Quant
+2023-01-06,QuantumultX,2766,JavaScript,583,44328,Quant
+2023-01-06,quantstats,2676,Python,536,44328,Quant
+2023-01-06,Project-Quantum,2636,,701,44328,Quant
+2023-01-06,zvt,2284,Python,716,44328,Quant
+2023-01-06,EliteQuant,2237,,505,44328,Quant
+2023-01-06,awesome-quantum-machine-learning,2162,HTML,610,44328,Quant
+2023-01-06,quantum-core,2059,Elixir,141,44328,Quant
+2023-01-06,awesome-quantum-computing,1932,,349,44328,Quant
+2023-01-06,QuantumultX,1774,JavaScript,548,44328,Quant
+2023-01-06,Awesome-Quant-Machine-Learning-Trading,1673,,453,44328,Quant
+2023-01-06,Quantumult-X,1655,JavaScript,239,44328,Quant
+2023-01-06,gs-quant,1584,Jupyter Notebook,333,44328,Quant
+2023-01-06,QuantEcon.py,1570,Python,2113,44328,Quant
+2023-01-06,quantum,1504,Python,448,44328,Quant
+2023-01-06,hikyuu,1477,C++,469,44328,Quant
+2023-01-06,quantdigger,1453,Python,637,44328,Quant
+2023-01-06,czsc,1426,Python,610,44328,Quant
+2023-01-06,Rules-For-Quantumult-X,1297,JavaScript,200,44328,Quant
+2023-01-06,quantitative,1243,Python,292,44328,Quant
+2023-01-06,quant-ux,1173,Vue,113,44328,Quant
+2023-01-06,Stock_Analysis_For_Quant,1164,Jupyter Notebook,351,44328,Quant
+2023-01-06,QuantResearch,1057,Jupyter Notebook,256,44328,Quant
+2023-01-06,fooltrader,1045,Python,325,44328,Quant
+2023-01-06,awesome-quantum-software,1020,,234,44328,Quant
+2023-01-06,996Quant,990,Jupyter Notebook,152,44328,Quant
+2023-01-06,FinQuant,876,Python,131,44328,Quant
+2023-01-06,QuantumultX-Surge-API,857,JavaScript,127,44328,Quant
+2023-01-06,StrategyEase-Python-SDK,842,Python,340,44328,Quant
+2023-01-06,funcat,811,Jupyter Notebook,397,44328,Quant
+2023-01-06,QuantsPlaybook,786,Jupyter Notebook,260,44328,Quant
+2023-01-06,rule_for_quantumultX,773,JavaScript,80,44328,Quant
+2023-01-06,quanteda,758,R,180,44328,Quant
+2023-01-06,QuantumultX-Script,693,,185,44328,Quant
+2023-01-06,quantmod,679,R,218,44328,Quant
+2023-01-06,QuantumultX,657,JavaScript,78,44328,Quant
+2023-01-06,binance-quantization,655,Python,240,44328,Quant
+2023-01-06,Quantdom,640,Python,184,44328,Quant
+2023-01-06,quantumcomputingbook,619,Jupyter Notebook,187,44328,Quant
+2023-01-06,QuantitativePrimer,602,TeX,96,44328,Quant
+2023-01-06,QuantumultX,573,,369,44328,Quant
+2023-01-06,Ashare,571,Python,204,44328,Quant
+2023-01-06,QuantumComputing,560,Python,146,44328,Quant
+2023-01-06,QuantumultX,550,,64,44328,Quant
+2023-01-06,QuantumultX,513,JavaScript,105,44328,Quant
+2023-01-06,QuantumLibraries,484,Q#,174,44328,Quant
+2023-01-06,quantlib-old,473,C++,420,44328,Quant
+2023-01-06,QuantSoftwareToolkit,454,HTML,216,44328,Quant
+2023-01-06,pythondict-quant,447,Python,178,44328,Quant
+2023-01-06,QuantEcon.jl,445,Julia,291,44328,Quant
+2023-01-06,QuantumOptics.jl,435,Julia,90,44328,Quant
+2023-01-06,poboquant,428,Python,195,44328,Quant
+2023-01-06,QuantityView,417,Java,92,44328,Quant
+2023-01-06,Quantum,413,Jupyter Notebook,136,44328,Quant
+2023-01-06,THSTrader,412,Jupyter Notebook,191,44328,Quant
+2023-01-06,QuantBox_XAPI,412,C++,242,44328,Quant
+2023-01-06,QuantPy,399,Python,81,44328,Quant
+2023-01-06,QuantumultX,379,JavaScript,50,44328,Quant
+2023-01-06,QuantBot,344,Go,140,44328,Quant
+2023-01-06,quantdsl,294,Python,57,44328,Quant
+2023-01-06,vue-low-code,287,JavaScript,34,44328,Quant
+2023-01-06,QuantumultX,276,JavaScript,73,44328,Quant
+2023-01-06,quant,269,Python,122,44328,Quant
+2023-01-06,QuantLib-SWIG,266,SWIG,259,44328,Quant
+2023-01-06,quantumultX,252,JavaScript,96,44328,Quant
+2023-01-06,quant,242,Python,86,44328,Quant
+2023-01-06,quant,237,C,31,44328,Quant
+2023-01-06,quant4j,202,Java,112,44328,Quant
+2023-01-06,Introduction-to-quantitative-trading,200,Jupyter Notebook,105,44328,Quant
+2023-01-06,QuantFinance,179,Jupyter Notebook,96,44328,Quant
+2023-01-06,quantcon2018,170,Jupyter Notebook,131,44328,Quant
+2023-01-06,pyquant,156,Jupyter Notebook,89,44328,Quant
+2023-01-06,quant,141,Ruby,24,44328,Quant
+2023-01-06,quant,138,Java,51,44328,Quant
+2023-01-06,QSTK,131,Python,90,44328,Quant
+2023-01-06,J-Quants-Tutorial,127,Ruby,94,44328,Quant
+2023-01-06,QuantStudy,125,Python,79,44328,Quant
+2023-01-06,Quant,115,Java,79,44328,Quant
+2023-01-06,QuantEcon.notebooks,113,Jupyter Notebook,104,44328,Quant
+2023-01-06,QuantAndFinancial,111,Jupyter Notebook,125,44328,Quant
+2023-01-06,betterquant,87,C++,35,44328,Quant
+2023-01-06,quant,72,,33,44328,Quant
+2023-01-06,quant,69,C#,36,44328,Quant
+2023-01-06,quant,57,JavaScript,27,44328,Quant
+2023-01-06,QADemoOLD,34,Jupyter Notebook,161,44328,Quant
+2023-01-06,quant,21,Python,90,44328,Quant
+2023-01-06,QUANTAXISWEB,20,Python,56,44328,Quant
+2023-01-06,QuantEcon.applications,9,Jupyter Notebook,329,44328,Quant

@@ -1,0 +1,101 @@
+date,repo_name,stargazes,language,forks,total_repos,crypto
+2022-11-30,RxJava,46673,Java,7638,171839,Flow
+2022-11-30,TensorFlow-Examples,42368,Jupyter Notebook,15157,171839,Flow
+2022-11-30,AppFlowy,29711,Dart,1676,171839,Flow
+2022-11-30,flow,21898,OCaml,1857,171839,Flow
+2022-11-30,TensorFlow-Course,16247,Jupyter Notebook,3248,171839,Flow
+2022-11-30,react-flow,12908,TypeScript,840,171839,Flow
+2022-11-30,Deep-Learning-with-TensorFlow-book,12819,Jupyter Notebook,4097,171839,Flow
+2022-11-30,flowy,9943,JavaScript,819,171839,Flow
+2022-11-30,TensorFlow-Tutorials,9097,Jupyter Notebook,4239,171839,Flow
+2022-11-30,flowchart.js,8083,JavaScript,1211,171839,Flow
+2022-11-30,spider-flow,7473,Java,1430,171839,Flow
+2022-11-30,js-code-to-svg-flowchart,6565,JavaScript,472,171839,Flow
+2022-11-30,TensorFlow-2.x-Tutorials,6267,Jupyter Notebook,2237,171839,Flow
+2022-11-30,git-cheat-sheet,6161,,1343,171839,Flow
+2022-11-30,TensorFlow-Tutorials,5946,Jupyter Notebook,1558,171839,Flow
+2022-11-30,flowable-engine,5893,Java,2225,171839,Flow
+2022-11-30,FlowLayout,5563,Java,1178,171839,Flow
+2022-11-30,flower,5467,Python,977,171839,Flow
+2022-11-30,CSStickyHeaderFlowLayout,5065,Objective-C,623,171839,Flow
+2022-11-30,FlowType.JS,4622,JavaScript,478,171839,Flow
+2022-11-30,TensorFlow-World,4533,Python,432,171839,Flow
+2022-11-30,TensorFlow-Book,4458,Jupyter Notebook,1238,171839,Flow
+2022-11-30,TensorFlowOnSpark,3831,Python,963,171839,Flow
+2022-11-30,flow-typed,3776,JavaScript,1404,171839,Flow
+2022-11-30,LogicFlow,3509,TypeScript,563,171839,Flow
+2022-11-30,noflo,3312,JavaScript,268,171839,Flow
+2022-11-30,WeFlow,3228,JavaScript,452,171839,Flow
+2022-11-30,flowbite,3154,HTML,341,171839,Flow
+2022-11-30,Ryven,3082,Python,359,171839,Flow
+2022-11-30,TensorFlowSharp,3074,C#,580,171839,Flow
+2022-11-30,TensorFlowTTS,2975,Python,672,171839,Flow
+2022-11-30,flow.js,2891,JavaScript,361,171839,Flow
+2022-11-30,flownet2-pytorch,2800,Python,708,171839,Flow
+2022-11-30,Drawflow,2799,JavaScript,489,171839,Flow
+2022-11-30,flow,2797,Java,258,171839,Flow
+2022-11-30,git-flow-completion,2762,Shell,404,171839,Flow
+2022-11-30,PocketFlow,2728,Python,502,171839,Flow
+2022-11-30,flowchart-fun,2625,TypeScript,191,171839,Flow
+2022-11-30,TensorFlow.NET,2566,C#,421,171839,Flow
+2022-11-30,FlowingDrawer,2563,Java,475,171839,Flow
+2022-11-30,TensorFlow,2523,Jupyter Notebook,8454,171839,Flow
+2022-11-30,dalle-flow,2510,Python,176,171839,Flow
+2022-11-30,FreeFlow,2422,Java,409,171839,Flow
+2022-11-30,git-flow-cheatsheet,2376,HTML,592,171839,Flow
+2022-11-30,FlowLayout,2353,Java,296,171839,Flow
+2022-11-30,StyleFlow,2256,Python,333,171839,Flow
+2022-11-30,EventFlow,2114,C#,422,171839,Flow
+2022-11-30,TensorFlow-Tutorials,2107,Python,1033,171839,Flow
+2022-11-30,android-flowlayout,2030,Java,380,171839,Flow
+2022-11-30,SpecFlow,2008,C#,746,171839,Flow
+2022-11-30,flowplayer,1898,JavaScript,497,171839,Flow
+2022-11-30,flowblade,1860,Python,168,171839,Flow
+2022-11-30,flower,1767,Python,375,171839,Flow
+2022-11-30,PyFlow,1750,Python,212,171839,Flow
+2022-11-30,kaggle-CrowdFlower,1741,C++,676,171839,Flow
+2022-11-30,TensorFlow2.0-Examples,1692,Jupyter Notebook,677,171839,Flow
+2022-11-30,login-flow,1610,JavaScript,230,171839,Flow
+2022-11-30,YOLOv3_TensorFlow,1539,Python,594,171839,Flow
+2022-11-30,bi-att-flow,1505,Python,691,171839,Flow
+2022-11-30,ng-flow,1394,JavaScript,312,171839,Flow
+2022-11-30,flowtime.js,1331,JavaScript,238,171839,Flow
+2022-11-30,flow,1326,Elixir,79,171839,Flow
+2022-11-30,Autopilot-TensorFlow,1211,Python,413,171839,Flow
+2022-11-30,flowing-retail,1205,Java,435,171839,Flow
+2022-11-30,CycleGAN-TensorFlow,1171,Python,448,171839,Flow
+2022-11-30,flownet2,986,C++,319,171839,Flow
+2022-11-30,FlowingMenu,974,Swift,119,171839,Flow
+2022-11-30,FlowTag,890,Java,182,171839,Flow
+2022-11-30,flow,878,JavaScript,114,171839,Flow
+2022-11-30,flow,860,Python,331,171839,Flow
+2022-11-30,TensorFlow-LiveLessons,824,Jupyter Notebook,637,171839,Flow
+2022-11-30,flowtron,794,Jupyter Notebook,165,171839,Flow
+2022-11-30,My-TensorFlow-tutorials,792,Python,532,171839,Flow
+2022-11-30,FlowDroid,787,Java,262,171839,Flow
+2022-11-30,FlowNetPytorch,762,Python,188,171839,Flow
+2022-11-30,FlowLayout,754,Java,148,171839,Flow
+2022-11-30,android-drag-FlowLayout,712,Java,112,171839,Flow
+2022-11-30,LayoutManager-FlowLayout,662,Java,158,171839,Flow
+2022-11-30,CodeFlower,653,JavaScript,319,171839,Flow
+2022-11-30,FlowTextView,591,Java,154,171839,Flow
+2022-11-30,FlowGraph,532,C++,110,171839,Flow
+2022-11-30,flow,478,HTML,171,171839,Flow
+2022-11-30,flow,426,Java,127,171839,Flow
+2022-11-30,Flow,426,Swift,21,171839,Flow
+2022-11-30,flownet2-tf,403,Python,199,171839,Flow
+2022-11-30,flow,349,Go,57,171839,Flow
+2022-11-30,flow,349,R,23,171839,Flow
+2022-11-30,flow,327,Go,137,171839,Flow
+2022-11-30,Flow,270,Objective-C,16,171839,Flow
+2022-11-30,TensorFlow,262,Jupyter Notebook,925,171839,Flow
+2022-11-30,flow,232,JavaScript,68,171839,Flow
+2022-11-30,flow,200,Python,43,171839,Flow
+2022-11-30,Flow,149,C,25,171839,Flow
+2022-11-30,Flow,142,Ruby,28,171839,Flow
+2022-11-30,flow,89,Go,30,171839,Flow
+2022-11-30,flow,83,Go,33,171839,Flow
+2022-11-30,flow,80,Vue,42,171839,Flow
+2022-11-30,flow,75,PHP,32,171839,Flow
+2022-11-30,flow-demo,22,JavaScript,3202,171839,Flow
+2022-11-30,Git-Flow-Practice,17,,2911,171839,Flow
